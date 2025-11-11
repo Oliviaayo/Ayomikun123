@@ -10,10 +10,6 @@ This is a project i did for Techie Academy Final Project, where i analysed a dat
 -  Worked with structured datasets across orders, pizzas, and pizza types.
 -  Used Microsoft Excel and Power BI for data analysis and visualization.
 
-# Pizza Sales Analysis Dashboard
-<p align="center">
-(https://github.com/Oliviaayo/Ayomikun123/blob/12c4ed8959e43b578d9649d24b36ad121407cea7/Power%20BI%20Dashboard.png)
-
 # Sales Analysis Dashboard
 
 <a href="https://drive.google.com/drive/folders/1uxm1tZj6T9HQlSWkfl5JUoi5VEoFAmsF?usp=sharing" target="_blank">View My Report</a>
