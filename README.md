@@ -12,4 +12,5 @@ This is a project i did for Techie Academy Final Project, where i analysed a dat
 
 # Sales Analysis Dashboard
 
+<a href="https://drive.google.com/drive/folders/1uxm1tZj6T9HQlSWkfl5JUoi5VEoFAmsF?usp=sharing" target="_blank">View My Report</a>
 [View Full Report on Google Drive](https://drive.google.com/drive/folders/1uxm1tZj6T9HQlSWkfl5JUoi5VEoFAmsF?usp=sharing)
