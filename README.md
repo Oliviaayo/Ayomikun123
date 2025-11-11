@@ -4,4 +4,8 @@
 
 This is a project i did for Techie Academy Final Project, where i analysed a dataset of pizza sales to get insight on the business.
 
-
+-  Analyzed pizza sales data to extract business insights and optimize operations.
+-  Evaluated revenue, product performance, and customer preferences.
+-  Identified seasonal trends and generated key performance indicators (KPIs).
+-  Worked with structured datasets across orders, pizzas, and pizza types.
+-  Used Microsoft Excel and Power BI for data analysis and visualization.
