@@ -11,7 +11,7 @@ This is a project i did for Techie Academy Final Project, where i analysed a dat
 -  Used Microsoft Excel and Power BI for data analysis and visualization.
 
 # Pizza Sales Analysis Dashboard
-![](Power BI Dashboard.png)
+
 
 # Sales Analysis Dashboard
 
